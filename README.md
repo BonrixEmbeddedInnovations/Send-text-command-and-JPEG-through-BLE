@@ -29,7 +29,7 @@ Dependencies:
 
 # Send-JPEG-Image-File-through-BLE-to-Dynamic-QR-code-Scanner-Display-DQR-111
 
-*2. 	Script Name: sendjpeg.py*
+**2. 	Script Name: sendjpeg.py**
 
 
 Description:
