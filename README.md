@@ -9,7 +9,9 @@ This Python script is designed to interface with a 3.5-inch 320x480 pixel displa
 Key Features:
 
 •	Establishes a BLE connection to the display.
+
 •	Sends text commands to switch between different screens.
+
 •	Can be easily modified to include additional commands as needed.
 
 Usage:
