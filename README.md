@@ -11,6 +11,7 @@ Key Features:
 Establishes a BLE connection to the display.
 Sends text commands to switch between different screens.
 Can be easily modified to include additional commands as needed.
+
 Usage:
 
 Ensure the display is powered on and in BLE mode.
