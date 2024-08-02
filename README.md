@@ -1,4 +1,4 @@
-# Send-text-command-and-JPEG-through-BLE
+# Send-text-command-through-BLE-to-Dynamic-QR-code-Scanner-Display-DQR-111
 This repository contains two python scripts for for send text command to display different screens and send jpeg image in chunks through BLE.
 
 1.  Script Name: sendtextcommand.py
@@ -27,7 +27,7 @@ Dependencies:
 •	bleak (BLE library for Python)
 
 
-
+# Send-JPEG-Image-File-through-BLE-to-Dynamic-QR-code-Scanner-Display-DQR-111
 
 2. 	Script Name: sendjpeg.py
 
