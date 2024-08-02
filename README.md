@@ -1,7 +1,7 @@
 # Send-text-command-through-BLE-to-Dynamic-QR-code-Scanner-Display-DQR-111
 This repository contains two python scripts for for send text command to display different screens and send jpeg image in chunks through BLE.
 
-**1.  Script Name: sendtextcommand.py**
+##1.  Script Name: sendtextcommand.py
 
 Description:
 This Python script is designed to interface with a 3.5-inch 320x480 pixel display over Bluetooth Low Energy (BLE). It allows users to send text commands to the display to switch between different screens. This functionality is useful for applications where multiple display states or screens are required.
@@ -29,7 +29,7 @@ Dependencies:
 
 # Send-JPEG-Image-File-through-BLE-to-Dynamic-QR-code-Scanner-Display-DQR-111
 
-**2. 	Script Name: sendjpeg.py**
+##2. 	Script Name: sendjpeg.py
 
 
 Description:
